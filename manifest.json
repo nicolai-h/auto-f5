@@ -1,0 +1,10 @@
+{
+    "name": "auto-f5",
+    "description": "Auto-f5 automatically refreshes a webpage based on a time interval.",
+    "version": "1",
+    "manifest_version": 2,
+    "minimum_chrome_version": "46",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
